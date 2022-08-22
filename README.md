@@ -1,2 +1,2 @@
-# FirstJavaProject
+# FirstJavaProjects
 My first Java Project
