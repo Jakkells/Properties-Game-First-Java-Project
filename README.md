@@ -1,2 +1,2 @@
 # FirstJavaProjects
-My first Java Project
+PropertiesGame First Java Project
