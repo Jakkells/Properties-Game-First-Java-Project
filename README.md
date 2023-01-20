@@ -1,2 +1,2 @@
-# FirstJavaProjects
-PropertiesGame First Java Project
+# Properties Game First Java Project
+
